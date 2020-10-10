@@ -2255,7 +2255,7 @@ p {
 @media (max-width: 767px) {
   .lg-btn {
     font-size: 16px;
-    ine-height: 52px;
+    line-height: 52px;
   }
 }
 
@@ -4038,7 +4038,8 @@ p {
 .testimonial-area .testimonial-left-content .sub-title {
   font-size: 18px;
   font-weight: 400;
-  color: #0067f4;
+  /* color: #0067f4; */
+  color: #0c7b11;
   text-transform: uppercase;
 }
 
@@ -4072,7 +4073,8 @@ p {
 
 .testimonial-area .testimonial-left-content .testimonial-line li {
   height: 5px;
-  background-color: #0067f4;
+  /* background-color: #0067f4; */
+  background-color: #59ab5d;
   opacity: 0.2;
   display: inline-block;
   border-radius: 50px;
@@ -4125,7 +4127,7 @@ p {
 .testimonial-area .testimonial-right-content .quota i {
   font-size: 130px;
   line-height: 95px;
-  color: #0067f4;
+  color: #59ab5d;
 }
 
 .testimonial-area .testimonial-content-wrapper {
